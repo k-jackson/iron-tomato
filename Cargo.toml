@@ -1,0 +1,10 @@
+[package]
+name = "irontomato"
+version = "1.0.0"
+authors = ["Kevin Jackson <kevin.jackson.public@outlook.com>"]
+
+[dependencies]
+
+[dependencies.gtk]
+version = "0.1.1"
+features = ["v3_10"]
